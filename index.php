@@ -4,6 +4,7 @@
   */
   
 $_SERVER['REQUEST_METHOD']=='GET';
-  
+
+//version 2  
 
 ?>
