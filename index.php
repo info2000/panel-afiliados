@@ -4,7 +4,7 @@
   */
   
 $_SERVER['REQUEST_METHOD']=='GET';
-<<<<<<< HEAD
+<<<<<<< HEAD                                                                            ssds
 
 //version 2                                                            sdssdsd   
 
